@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Developer Quiz</title>
+  <base href="https://kommunity.github.io/dev-quiz/">
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -132,7 +133,7 @@
 
   async function fetchDeveloperData() {
     try {
-      const response = await fetch('https://raw.githubusercontent.com/Kommunity/dev-quiz/main/data.json');
+      const response = await fetch('https://raw.githubusercontent.com/Kommunity/dev-quiz/main/dev.json');
 
       if (!response.ok) {
         throw new Error('Failed to fetch data');
