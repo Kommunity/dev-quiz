@@ -4,7 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Developer Quiz</title>
-  <base href="https://kommunity.github.io/dev-quiz/">
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -216,7 +215,7 @@
     const quizContainer = document.getElementById('quiz-container');
 
     quizContainer.innerHTML = `<div class="image-container">
-      <img src="/images/${currentDeveloper.ID}.jpg" alt="Developer Image">
+      <img src="https://kommunity.github.io/dev-quiz/images/${currentDeveloper.ID}.jpg" alt="Developer Image">
     </div>
     <p>Hangi dili yaziyor?</p>
     ${allAnswers.map(answer => `<button class="answer-button" onclick="checkAnswer('${correctAnswer}', '${answer}')">${answer}</button>`).join('')}
