@@ -215,7 +215,7 @@
     const quizContainer = document.getElementById('quiz-container');
 
     quizContainer.innerHTML = `<div class="image-container">
-      <img src="${currentDeveloper.IlkGorselURL}" alt="Developer Image">
+      <img src="/images/${currentDeveloper.ID}.jpg" alt="Developer Image">
     </div>
     <p>Hangi dili yaziyor?</p>
     ${allAnswers.map(answer => `<button class="answer-button" onclick="checkAnswer('${correctAnswer}', '${answer}')">${answer}</button>`).join('')}

@@ -1,5 +1,6 @@
 [
   {
+    "ID": 1,
     "İsim Soyisim": "Fatih Kadir Akın",
     "Dil": "JavaScript",
     "URL1": "https://github.com/f",
@@ -7,6 +8,7 @@
     "IlkGorselURL": "https://avatars.githubusercontent.com/u/196477?v=4"
   },
   {
+    "ID": 2,
     "İsim Soyisim": "Hidayet Ok",
     "Dil": "PHP",
     "URL1": "https://github.com/hidonet",
@@ -14,6 +16,7 @@
     "IlkGorselURL": "https://avatars.githubusercontent.com/u/1196088?v=4"
   },
   {
+    "ID": 3,
     "İsim Soyisim": "Emir Karşıyakalı",
     "Dil": "PHP",
     "URL1": "github.com/emir",
@@ -21,6 +24,7 @@
     "IlkGorselURL": "https://avatars.githubusercontent.com/u/1097170?v=4"
   },
   {
+    "ID": 4,
     "İsim Soyisim": "Güven Atbakan",
     "Dil": "PHP",
     "URL1": "github.com/gatbakan",
@@ -28,6 +32,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1732368055043346432/sB1J7Ee8_400x400.jpg"
   },
   {
+    "ID": 5,
     "İsim Soyisim": "Lemi Orhan Ergin",
     "Dil": "Java",
     "URL1": "github.com/lemiorhanergin",
@@ -35,6 +40,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/D4D03AQGrNLhc7EA64A/profile-displayphoto-shrink_800_800/0/1671015154260?e=1715212800&v=beta&t=lhBND0_9FEtR8CyJojFXW_um5KcOT_W_7_OPOEYiZg4"
   },
   {
+    "ID": 6,
     "İsim Soyisim": "Adem İlter",
     "Dil": "CSS",
     "URL1": "https://twitter.com/ademilter/",
@@ -42,6 +48,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1656388492929138689/7UMHUaJP_400x400.jpg"
   },
   {
+    "ID": 7,
     "İsim Soyisim": "Seyfeddin Başsaraç",
     "Dil": "Swift",
     "URL1": "https://twitter.com/seyfoyun/",
@@ -49,6 +56,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/761644712293961728/jeN30EH__400x400.jpg"
   },
   {
+    "ID": 8,
     "İsim Soyisim": "Yücel Tepeköy .d",
     "Dil": "Delphi",
     "URL1": "",
@@ -56,6 +64,7 @@
     "IlkGorselURL": "https://www.imecetasarruf.com/upload//yucel-tepeky.jpg"
   },
   {
+    "ID": 9,
     "İsim Soyisim": "Emre Savcı",
     "Dil": "Go",
     "URL1": "https://twitter.com/mstrYoda_",
@@ -63,6 +72,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1532331124428623872/naBvUpUr_400x400.jpg"
   },
   {
+    "ID": 10,
     "İsim Soyisim": "Hidayet Doğan",
     "Dil": "PHP",
     "URL1": "https://www.linkedin.com/in/hdogan/",
@@ -70,6 +80,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/C4D03AQF8wG0GinWRmQ/profile-displayphoto-shrink_800_800/0/1516954949778?e=1715212800&v=beta&t=D6HhNVVlpJDjLu8KLM9bId29nTemRkoXD2bukNCr1hU"
   },
   {
+    "ID": 11,
     "İsim Soyisim": "Osman Yüksel",
     "Dil": "PHP",
     "URL1": "https://github.com/yuxel",
@@ -77,6 +88,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/D4D03AQGmf3_b2WJB8A/profile-displayphoto-shrink_800_800/0/1680904689140?e=1715212800&v=beta&t=V_uqPNDbP1p7fZzukExoA0myZOTcFSo5e1yIxKnSC8o"
   },
   {
+    "ID": 12,
     "İsim Soyisim": "Uğur Umutluoğlu",
     "Dil": "C#",
     "URL1": "https://twitter.com/umutluoglu/",
@@ -84,6 +96,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1712860264540876800/nBgdpdJ__400x400.jpg"
   },
   {
+    "ID": 13,
     "İsim Soyisim": "Selçuk Ermaya",
     "Dil": "C#",
     "URL1": "https://twitter.com/selcukermaya/",
@@ -91,6 +104,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1570485006040014848/Y59fGaf-_400x400.png"
   },
   {
+    "ID": 14,
     "İsim Soyisim": "Fatih Üstündağ",
     "Dil": "PHP",
     "URL1": "https://twitter.com/fustundag",
@@ -98,6 +112,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1656618852459880448/bUrieWnL_400x400.jpg"
   },
   {
+    "ID": 15,
     "İsim Soyisim": "Armağan Amcalar",
     "Dil": "JavaScript",
     "URL1": "https://twitter.com/dashersw",
@@ -105,6 +120,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1062228518354989061/Cyo4KfOl_400x400.jpg"
   },
   {
+    "ID": 16,
     "İsim Soyisim": "Eser Özvataf",
     "Dil": "JavaScript",
     "URL1": "https://twitter.com/eser",
@@ -112,6 +128,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1718850788032716800/R-5dFRFX_400x400.png"
   },
   {
+    "ID": 17,
     "İsim Soyisim": "Fatih Arslan",
     "Dil": "Go",
     "URL1": "twitter.com/fatih",
@@ -119,6 +136,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1525082346508144640/b_T5UXy6_400x400.jpg"
   },
   {
+    "ID": 18,
     "İsim Soyisim": "Doğan Dağdelen",
     "Dil": "C",
     "URL1": "https://twitter.com/DoanDadelen5",
@@ -126,6 +144,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1631636076979712002/z_a6zLMQ_400x400.jpg"
   },
   {
+    "ID": 19,
     "İsim Soyisim": "Mazlum Ağar",
     "Dil": "Python",
     "URL1": "https://www.linkedin.com/in/mazlumagar/",
@@ -133,6 +152,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/D4D03AQG_1hFjeE2JBw/profile-displayphoto-shrink_800_800/0/1707840170626?e=1715212800&v=beta&t=D_iO9zPlbHHgAEOn8pkkVgVay4f71wcqsd7nAhOepyY"
   },
   {
+    "ID": 20,
     "İsim Soyisim": "Zafer Ayan",
     "Dil": "JavaScript",
     "URL1": "https://twitter.com/ZaferAyan/",
@@ -140,6 +160,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1619677903628664833/uBGimaU__400x400.jpg"
   },
   {
+    "ID": 21,
     "İsim Soyisim": "Onur Özcan",
     "Dil": "WordPress",
     "URL1": "https://twitter.com/oozn/",
@@ -147,6 +168,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1496401143408345088/3wRKuMxY_400x400.jpg"
   },
   {
+    "ID": 22,
     "İsim Soyisim": "Mustafa Uysal",
     "Dil": "WordPress",
     "URL1": "https://twitter.com/m_uysl",
@@ -154,6 +176,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1109777101895409664/9XFaafxD_400x400.png"
   },
   {
+    "ID": 23,
     "İsim Soyisim": "İsmail Baskın",
     "Dil": "PHP",
     "URL1": "https://twitter.com/baskindev/",
@@ -161,6 +184,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1629894989592375299/NdA3OdUi_400x400.jpg"
   },
   {
+    "ID": 24,
     "İsim Soyisim": "Batuhan Taşkaya",
     "Dil": "Python",
     "URL1": "https://github.com/isidentical",
@@ -168,13 +192,7 @@
     "IlkGorselURL": "https://tr.pycon.org/images/organizers/batuhan.jpg"
   },
   {
-    "İsim Soyisim": "Berker Peksag",
-    "Dil": "Python",
-    "URL1": "https://twitter.com/berkerpeksag",
-    "URL2": "",
-    "IlkGorselURL": ""
-  },
-  {
+    "ID": 26,
     "İsim Soyisim": "Uğur Özyılmazel",
     "Dil": "Go",
     "URL1": "https://twitter.com/vigobronx/",
@@ -182,6 +200,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1654425030514679809/UexocO3J_400x400.jpg"
   },
   {
+    "ID": 27,
     "İsim Soyisim": "Abdullah Uğraşkan",
     "Dil": "C#",
     "URL1": "https://twitter.com/apostylee",
@@ -189,6 +208,7 @@
     "IlkGorselURL": "https://yt3.googleusercontent.com/ytc/AIdro_kquGD-qB64BuW5hcsf7rpPQzmF7h1H3QgvQjab8Vg=s176-c-k-c0x00ffffff-no-rj"
   },
   {
+    "ID": 28,
     "İsim Soyisim": "Bora Kaşmer",
     "Dil": "C#",
     "URL1": "https://twitter.com/CoderBora",
@@ -196,6 +216,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1594795552650264577/LuDpFnbS_400x400.jpg"
   },
   {
+    "ID": 29,
     "İsim Soyisim": "Akın Kaldıroğlu",
     "Dil": "Java",
     "URL1": "https://www.linkedin.com/in/akinkaldiroglu/?originalSubdomain=tr",
@@ -203,6 +224,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/D4D03AQEvC0VMUZevew/profile-displayphoto-shrink_800_800/0/1673598312290?e=1715212800&v=beta&t=lYuJ8GhQB9BMBDn194diQExbn5cMjoyftcf2CM3NbDw"
   },
   {
+    "ID": 30,
     "İsim Soyisim": "Gülçin Yıldırım",
     "Dil": "PostgreSQL",
     "URL1": "https://twitter.com/apatheticmagpie",
@@ -210,6 +232,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1456355723563110400/kGh_m8fz_400x400.jpg"
   },
   {
+    "ID": 31,
     "İsim Soyisim": "Ömer Selçuk Cihan",
     "Dil": "Java",
     "URL1": "https://twitter.com/scihan",
@@ -217,6 +240,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1661449334460694529/EgJriXNp_400x400.jpg"
   },
   {
+    "ID": 32,
     "İsim Soyisim": "Devrim Gündüz",
     "Dil": "PostgreSQL",
     "URL1": "https://twitter.com/devrimgunduztr",
@@ -224,6 +248,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1384470557811384324/PnqiLpe5_400x400.jpg"
   },
   {
+    "ID": 33,
     "İsim Soyisim": "İlker Kurtel",
     "Dil": "CSS",
     "URL1": "https://twitter.com/ilkerkurtel/",
@@ -231,6 +256,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1358028062550589440/noO_VNUU_400x400.jpg"
   },
   {
+    "ID": 34,
     "İsim Soyisim": "Gökhan Topçu",
     "Dil": "Swift",
     "URL1": "https://twitter.com/ifndefgt",
@@ -238,6 +264,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1601559378053718016/P-Ya_HDb_400x400.jpg"
   },
   {
+    "ID": 35,
     "İsim Soyisim": "Onur Aslan",
     "Dil": "JavaScript",
     "URL1": "https://www.linkedin.com/in/aslanon/",
@@ -245,6 +272,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/D4D03AQFgUNuovHl_CQ/profile-displayphoto-shrink_800_800/0/1699610352084?e=1715212800&v=beta&t=wCpQR9fNrQrsYg2YqwM9vZ02FzgmqjleZ8xfre3boGo"
   },
   {
+    "ID": 36,
     "İsim Soyisim": "Sercan Yusuf",
     "Dil": "Flutter",
     "URL1": "https://twitter.com/sercanyus_/",
@@ -252,6 +280,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1601559378053718016/P-Ya_HDb_400x400.jpg"
   },
   {
+    "ID": 37,
     "İsim Soyisim": "Mustafa Samet Üçgün",
     "Dil": "C#",
     "URL1": "https://www.linkedin.com/in/msucgun/",
@@ -259,6 +288,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/C4E03AQEYkzZJmoqaUQ/profile-displayphoto-shrink_800_800/0/1523897280495?e=1715212800&v=beta&t=eF9aXFBqzjwQR5tYO6OOqbllAbIzsETEhZwKpUazVRk"
   },
   {
+    "ID": 38,
     "İsim Soyisim": "Mustafa Ilıkkan",
     "Dil": "Java",
     "URL1": "https://twitter.com/milikkan",
@@ -266,6 +296,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/C5103AQEPqs2OXvWDcA/profile-displayphoto-shrink_800_800/0/1566940510303?e=1715212800&v=beta&t=zrAGlpx7gjGHunXADz0ggreH6iiKyrsZR4g2WW8ApLk"
   },
   {
+    "ID": 39,
     "İsim Soyisim": "Musta Akın",
     "Dil": "Kotlin",
     "URL1": "https://www.linkedin.com/in/mustafaakin/",
@@ -273,6 +304,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/D4D03AQGKNgyGv1nnJw/profile-displayphoto-shrink_800_800/0/1709107303531?e=1715212800&v=beta&t=XICRZVCFzMWuLPC9Yp7yx77B8nFOL1Kvc5_lV4FqAYM"
   },
   {
+    "ID": 40,
     "İsim Soyisim": "Fatih Hayrioğlu",
     "Dil": "CSS",
     "URL1": "https://twitter.com/fatihhayri",
@@ -280,6 +312,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/C4D03AQEFU_XIMISbmg/profile-displayphoto-shrink_800_800/0/1516628956163?e=1715212800&v=beta&t=UhX24rT18eTik5g33sXLz1a5wxy__IPTIvJY3sHOtj4"
   },
   {
+    "ID": 41,
     "İsim Soyisim": "Tayfun Öziş Erikan",
     "Dil": "Ruby",
     "URL1": "https://twitter.com/tayfunerikan",
@@ -287,6 +320,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1757455920731131904/PcEemyVp_400x400.jpg"
   },
   {
+    "ID": 42,
     "İsim Soyisim": "Muhammet Dilmaç",
     "Dil": "Ruby",
     "URL1": "https://twitter.com/m_dilmac",
@@ -294,6 +328,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1172993412338987013/CslYjfR8_400x400.jpg"
   },
   {
+    "ID": 43,
     "İsim Soyisim": "Ender Ahmet Yurt",
     "Dil": "Ruby",
     "URL1": "https://twitter.com/eayurt",
@@ -301,6 +336,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1667481765160574977/RgY4ZrIs_400x400.jpg"
   },
   {
+    "ID": 44,
     "İsim Soyisim": "Okan Davut",
     "Dil": "JavaScript",
     "URL1": "https://twitter.com/okandavutcom/",
@@ -308,6 +344,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1710744278148767744/HcbxFK3o_400x400.jpg"
   },
   {
+    "ID": 45,
     "İsim Soyisim": "Güney Kayım",
     "Dil": "JavaScript",
     "URL1": "https://twitter.com/yanolacagidi",
@@ -315,6 +352,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1189451866628902913/NUVzR6uq_400x400.jpg"
   },
   {
+    "ID": 46,
     "İsim Soyisim": "Volkan Özçelik",
     "Dil": "JavaScript",
     "URL1": "https://twitter.com/vadidekivolkan",
@@ -322,6 +360,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1553621542612873217/M4nV4jUb_400x400.jpg"
   },
   {
+    "ID": 47,
     "İsim Soyisim": "Fatih Acet",
     "Dil": "JavaScript",
     "URL1": "https://twitter.com/fatihacet/",
@@ -329,6 +368,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1673799855079030784/dGWxyi82_400x400.jpg"
   },
   {
+    "ID": 48,
     "İsim Soyisim": "Oğuz Kılıç",
     "Dil": "JavaScript",
     "URL1": "https://www.linkedin.com/in/oguzzkilic/",
@@ -336,6 +376,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/D4D03AQG5qA2zFp_cjw/profile-displayphoto-shrink_800_800/0/1696525834217?e=1715212800&v=beta&t=RVgwCiBD1PpaoVAESe-IjgNpkNrUCyI0z_0MLr7O9gM"
   },
   {
+    "ID": 49,
     "İsim Soyisim": "Oğuzhan Aslan",
     "Dil": "JavaScript",
     "URL1": "https://twitter.com/oguzhanaslan/",
@@ -343,6 +384,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1688474723078782976/bMSL0Mf6_400x400.jpg"
   },
   {
+    "ID": 50,
     "İsim Soyisim": "Ahmet Oğuz Koca",
     "Dil": "C#",
     "URL1": "https://twitter.com/aokocax/",
@@ -350,6 +392,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1639947319985487876/3Ekrn4Kq_400x400.jpg"
   },
   {
+    "ID": 51,
     "İsim Soyisim": "Semih Kışlar",
     "Dil": "PHP",
     "URL1": "https://twitter.com/semiyann/",
@@ -357,6 +400,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1185961262301286400/EZ6kw_S-_400x400.jpg"
   },
   {
+    "ID": 52,
     "İsim Soyisim": "Tayfun Erbilen",
     "Dil": "PHP",
     "URL1": "https://twitter.com/tayfunerbilen/",
@@ -364,6 +408,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1721055670932324352/MG7ym5tG_400x400.jpg"
   },
   {
+    "ID": 53,
     "İsim Soyisim": "Oğuzhan Yılmaz",
     "Dil": "Go",
     "URL1": "https://twitter.com/c1982/",
@@ -371,6 +416,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1735742073326739457/85xSk_ko_400x400.jpg"
   },
   {
+    "ID": 54,
     "İsim Soyisim": "Erhan Yakut",
     "Dil": "Go",
     "URL1": "https://twitter.com/yakuter/",
@@ -378,6 +424,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1583456808491941889/4whFNwI8_400x400.jpg"
   },
   {
+    "ID": 55,
     "İsim Soyisim": "Kevser Sırça",
     "Dil": "Go",
     "URL1": "https://twitter.com/kev_src",
@@ -385,6 +432,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1480597701247000579/YJvyGfOd_400x400.jpg"
   },
   {
+    "ID": 56,
     "İsim Soyisim": "Elif Bayrakdar",
     "Dil": "C#",
     "URL1": "https://www.linkedin.com/in/elifbayrakdar/?originalSubdomain=tr",
@@ -392,6 +440,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/C5103AQHU3byJPrIoUg/profile-displayphoto-shrink_800_800/0/1516941280063?e=1715212800&v=beta&t=eqNkE685oAs_YsdNgVkGCbyC51bMIVcnXYKIlBscnAQ"
   },
   {
+    "ID": 57,
     "İsim Soyisim": "Halil İbrahim Kalkan",
     "Dil": "C#",
     "URL1": "https://twitter.com/hibrahimkalkan",
@@ -399,6 +448,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1718628169404608512/bnlkgG09_400x400.jpg"
   },
   {
+    "ID": 58,
     "İsim Soyisim": "Hüseyin Babal",
     "Dil": "C#",
     "URL1": "https://www.linkedin.com/in/huseyinbabal/?originalSubdomain=tr",
@@ -406,6 +456,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/C4E03AQEHuU2e4385PA/profile-displayphoto-shrink_800_800/0/1553898438789?e=1715212800&v=beta&t=F7pvozU_lNzDTGoRhydWHrmnB56pVePqx070hJZjvnE"
   },
   {
+    "ID": 59,
     "İsim Soyisim": "Zeynep Nur Aktaş",
     "Dil": "C#",
     "URL1": "https://twitter.com/zeynepnurdilek",
@@ -413,6 +464,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1581993593018908672/VZ5-XkAe_400x400.jpg"
   },
   {
+    "ID": 60,
     "İsim Soyisim": "Gizem Cifgüvercin",
     "Dil": "C#",
     "URL1": "https://www.linkedin.com/in/gizemcifguvercin/?originalSubdomain=tr",
@@ -420,6 +472,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/D4D03AQGw-Yrn_xX1Hg/profile-displayphoto-shrink_800_800/0/1704482902370?e=1715212800&v=beta&t=PJxzPuvWzjQBuzZenOMJC_USx1C2GGVmiDiefJluGFs"
   },
   {
+    "ID": 61,
     "İsim Soyisim": "Hatice Edis",
     "Dil": "JavaScript",
     "URL1": "https://twitter.com/edisdev",
@@ -427,6 +480,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1631762690392694785/5GLrXYQJ_400x400.jpg"
   },
   {
+    "ID": 62,
     "İsim Soyisim": "Sibel Kuzgun Akın",
     "Dil": "PHP",
     "URL1": "https://www.linkedin.com/in/sibelkuzgun/?originalSubdomain=tr",
@@ -434,6 +488,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/C5603AQHiHmWRaiWSMA/profile-displayphoto-shrink_800_800/0/1516277688662?e=1715212800&v=beta&t=hxZ95XhDlfPN0fgvIkp9xbTqsvz4ECKrEJmvHOWF0Kw"
   },
   {
+    "ID": 63,
     "İsim Soyisim": "İbrahim Serdar Açıkgöz",
     "Dil": "Go",
     "URL1": "https://twitter.com/isacikgoz",
@@ -441,6 +496,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1232649132889853956/TJwaZgxQ_400x400.jpg"
   },
   {
+    "ID": 64,
     "İsim Soyisim": "Özgür Öztürk",
     "Dil": "txt",
     "URL1": "https://twitter.com/ozgurozturknet/",
@@ -448,6 +504,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1729264838382161920/YVc1lctV_400x400.jpg"
   },
   {
+    "ID": 65,
     "İsim Soyisim": "Batuhan İçöz",
     "Dil": "PHP",
     "URL1": "https://twitter.com/batuhan",
@@ -455,6 +512,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1654490285546651655/C0qgsbhL_400x400.jpg"
   },
   {
+    "ID": 66,
     "İsim Soyisim": "Çağrı Dursun",
     "Dil": "Java",
     "URL1": "https://twitter.com/c__dursun",
@@ -462,6 +520,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1671411609237848064/7uFTFatK_400x400.jpg"
   },
   {
+    "ID": 67,
     "İsim Soyisim": "Burcu Doğan",
     "Dil": "Go",
     "URL1": "https://twitter.com/rakyll",
@@ -469,6 +528,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1736669547808358400/0cfKxdZX_400x400.jpg"
   },
   {
+    "ID": 68,
     "İsim Soyisim": "Muhammed Hilmi Koca",
     "Dil": "C#",
     "URL1": "https://twitter.com/mhk_developer",
@@ -476,6 +536,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1549762445786456066/qIFkHczV_400x400.jpg"
   },
   {
+    "ID": 69,
     "İsim Soyisim": "Selin Tunç",
     "Dil": "JavaScript",
     "URL1": "https://twitter.com/SelinTunc_",
@@ -483,6 +544,7 @@
     "IlkGorselURL": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_face,h_400,q_auto:good,w_400/v1/gcs/platform-data-dsc/events/selintunc.png"
   },
   {
+    "ID": 70,
     "İsim Soyisim": "Evren Tan",
     "Dil": "Java",
     "URL1": "https://twitter.com/evrn_tan",
@@ -490,6 +552,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1609275900431941632/GWp0FYqx_400x400.jpg"
   },
   {
+    "ID": 71,
     "İsim Soyisim": "Özgür Adem Işıklı",
     "Dil": "PHP",
     "URL1": "https://twitter.com/iozguradem",
@@ -497,6 +560,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1687563817495015424/nnUlDME9_400x400.jpg"
   },
   {
+    "ID": 72,
     "İsim Soyisim": "İlker Ulusoy",
     "Dil": "Swift",
     "URL1": "https://twitter.com/ilkerulusoy",
@@ -504,6 +568,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/C4D03AQGip5h5SatoUw/profile-displayphoto-shrink_800_800/0/1572255414377?e=1715212800&v=beta&t=JmG2mZBTgD3ehXw44H5wtBBowb-ou2LY9A1XjbBYg4E"
   },
   {
+    "ID": 73,
     "İsim Soyisim": "Doğukan Zorlu",
     "Dil": "Ruby",
     "URL1": "https://twitter.com/DogukannZorlu",
@@ -511,6 +576,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1762883398391963648/8jbnIF0r_400x400.jpg"
   },
   {
+    "ID": 74,
     "İsim Soyisim": "Muhammed Salih Güler",
     "Dil": "Flutter",
     "URL1": "https://twitter.com/salihgueler",
@@ -518,6 +584,7 @@
     "IlkGorselURL": "https://avatars.githubusercontent.com/u/24432752?v=4"
   },
   {
+    "ID": 75,
     "İsim Soyisim": "Barış Akın",
     "Dil": "C#",
     "URL1": "https://twitter.com/barisakin/",
@@ -525,6 +592,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1734978588359688192/XVlKNsNc_400x400.jpg"
   },
   {
+    "ID": 76,
     "İsim Soyisim": "Furkan Kılıç",
     "Dil": "Swift",
     "URL1": "https://twitter.com/benfurkankilic",
@@ -532,6 +600,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1642485789849423874/7BAoHQ2f_400x400.jpg"
   },
   {
+    "ID": 77,
     "İsim Soyisim": "Ahmet Alp Balkan",
     "Dil": "Go",
     "URL1": "https://github.com/ahmetb",
@@ -539,6 +608,7 @@
     "IlkGorselURL": "https://avatars.githubusercontent.com/u/159209?v=4"
   },
   {
+    "ID": 78,
     "İsim Soyisim": "Serkan İnce",
     "Dil": "C#",
     "URL1": "https://twitter.com/serkanince_",
@@ -546,6 +616,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1691720058551025664/9mxel-8Y_400x400.jpg"
   },
   {
+    "ID": 79,
     "İsim Soyisim": "Ramazan Arslan",
     "Dil": "JavaScript",
     "URL1": "https://twitter.com/arslan1845",
@@ -553,6 +624,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1738934548207906816/KfrZj0VS_400x400.jpg"
   },
   {
+    "ID": 80,
     "İsim Soyisim": "İrem Karaoğlu",
     "Dil": "Swift",
     "URL1": "https://www.linkedin.com/in/iremkaraoglu/?originalSubdomain=tr",
@@ -560,6 +632,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/D5603AQGiVch0_M6-4A/profile-displayphoto-shrink_800_800/0/1709209953698?e=1715212800&v=beta&t=nbseB70M0tbq-qfO2M1jJ7rKtj1LS1PrkfXJuWP0ajw"
   },
   {
+    "ID": 81,
     "İsim Soyisim": "Emre Yılmaz",
     "Dil": "Python",
     "URL1": "https://github.com/emre",
@@ -567,6 +640,7 @@
     "IlkGorselURL": "https://avatars.githubusercontent.com/u/72460?v=4"
   },
   {
+    "ID": 82,
     "İsim Soyisim": "Elif T. Kuş",
     "Dil": "Java",
     "URL1": "https://twitter.com/elifkus",
@@ -574,6 +648,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1584577583563284481/rc1V3MVD_400x400.jpg"
   },
   {
+    "ID": 83,
     "İsim Soyisim": "Meryem Alay",
     "Dil": "Java",
     "URL1": "https://twitter.com/koziLife",
@@ -581,6 +656,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1667817334478700545/SfLH27_z_400x400.jpg"
   },
   {
+    "ID": 84,
     "İsim Soyisim": "Gamze Yılmaz",
     "Dil": "Swift",
     "URL1": "https://www.linkedin.com/in/gamze-y%C4%B1lmaz-02761aa4",
@@ -588,6 +664,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/D4D03AQGL4CP2apf1Pw/profile-displayphoto-shrink_800_800/0/1676644741151?e=1715212800&v=beta&t=pR1te0i9ZV76QG2em28v0U01cJyJqX7xRKzCuonfW_s"
   },
   {
+    "ID": 85,
     "İsim Soyisim": "Mehmet Hakan Satman",
     "Dil": "Julia",
     "URL1": "https://twitter.com/mhsatman",
@@ -595,6 +672,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/543351734412640256/IaPkMWNd_400x400.jpeg"
   },
   {
+    "ID": 86,
     "İsim Soyisim": "Mahmut Gündoğdu",
     "Dil": "JavaScript",
     "URL1": "https://twitter.com/MahmutGundogdu",
@@ -602,6 +680,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1520032896609832966/lYIPqWBQ_400x400.jpg"
   },
   {
+    "ID": 87,
     "İsim Soyisim": "Nesrin Kalender",
     "Dil": "CSS",
     "URL1": "https://tr.linkedin.com/in/nesrin-kalender",
@@ -609,6 +688,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/C5603AQFFdpz7R-nJJQ/profile-displayphoto-shrink_800_800/0/1646940828263?e=1715212800&v=beta&t=UCllhEUcf4U0A_157cqU-QcbKPPY2z1ABix4uwfFJ_w"
   },
   {
+    "ID": 88,
     "İsim Soyisim": "Kader Sucuk",
     "Dil": "Ruby",
     "URL1": "https://www.linkedin.com/in/kader-sucuk-7a607726/?originalSubdomain=tr",
@@ -616,6 +696,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/C4D03AQEjPgL25DXZ-Q/profile-displayphoto-shrink_800_800/0/1517352093283?e=1715212800&v=beta&t=v88O7Rm0LeKhFi4SlWIADC3514xgVdo0iuOllCOcvRc"
   },
   {
+    "ID": 89,
     "İsim Soyisim": "Umut Şirin",
     "Dil": "JavaScript",
     "URL1": "https://github.com/usirin",
@@ -623,6 +704,7 @@
     "IlkGorselURL": "https://avatars.githubusercontent.com/u/1783869?v=4"
   },
   {
+    "ID": 90,
     "İsim Soyisim": "Simto Alev",
     "Dil": "CSS",
     "URL1": "https://twitter.com/simtoalev",
@@ -630,6 +712,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/883428035659223040/pH7Ts-3z_400x400.jpg"
   },
   {
+    "ID": 91,
     "İsim Soyisim": "Sedat Kapanoğlu",
     "Dil": "C#",
     "URL1": "https://twitter.com/esesci",
@@ -637,6 +720,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1681794452124504065/8unh9MV3_400x400.jpg"
   },
   {
+    "ID": 92,
     "İsim Soyisim": "Burak Yiğit Kaya",
     "Dil": "JavaScript",
     "URL1": "https://github.com/BYK",
@@ -644,6 +728,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1708972314568642561/ZTSIwNev_400x400.jpg"
   },
   {
+    "ID": 93,
     "İsim Soyisim": "Cihan Okyay",
     "Dil": "Python",
     "URL1": "https://github.com/cihann",
@@ -651,6 +736,7 @@
     "IlkGorselURL": "https://avatars.githubusercontent.com/u/72394?v=4"
   },
   {
+    "ID": 94,
     "İsim Soyisim": "Murat Çorlu",
     "Dil": "JavaScript",
     "URL1": "https://github.com/muratcorlu",
@@ -658,6 +744,7 @@
     "IlkGorselURL": "https://avatars.githubusercontent.com/u/127687?v=4"
   },
   {
+    "ID": 95,
     "İsim Soyisim": "Mirat Can Bayrak",
     "Dil": "Python",
     "URL1": "https://github.com/miratcan",
@@ -665,6 +752,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1534198045004398592/9LGDxTZn_400x400.jpg"
   },
   {
+    "ID": 96,
     "İsim Soyisim": "Yiğit Güler",
     "Dil": "Python",
     "URL1": "https://github.com/yigitguler",
@@ -672,6 +760,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/C5603AQFiOAdqW2rihg/profile-displayphoto-shrink_800_800/0/1517480981855?e=1715212800&v=beta&t=52lHO8kgWJKN6LWcD49gZKA66wdqG6Ik0xy-ThZ6oQc"
   },
   {
+    "ID": 97,
     "İsim Soyisim": "Haydar Külekçi",
     "Dil": "PHP",
     "URL1": "https://github.com/hkulekci",
@@ -679,6 +768,7 @@
     "IlkGorselURL": "https://avatars.githubusercontent.com/u/586318?v=4"
   },
   {
+    "ID": 98,
     "İsim Soyisim": "Osman Makal",
     "Dil": "Go",
     "URL1": "https://twitter.com/osmanmakal",
@@ -686,13 +776,15 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1658233581548781571/mMvLsBdI_400x400.jpg"
   },
   {
+    "ID": 99,
     "İsim Soyisim": "Utku Şen",
-    "Dil": "Değil - Siber Güvenlik",
+    "Dil": "Siber Güvenlik",
     "URL1": "https://twitter.com/utkusen",
     "URL2": "",
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1729198028592939008/96m6Ea_o_400x400.jpg"
   },
   {
+    "ID": 100,
     "İsim Soyisim": "Mert Şimşek",
     "Dil": "PHP",
     "URL1": "https://twitter.com/_mertsimsek",
@@ -700,6 +792,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1756085820761448448/pho72DaB_400x400.jpg"
   },
   {
+    "ID": 101,
     "İsim Soyisim": "İlker Aksu",
     "Dil": "Go",
     "URL1": "https://twitter.com/ilkeraksu",
@@ -707,6 +800,7 @@
     "IlkGorselURL": "https://media.kommunity.com/avatar/_avatar_5dcbe65da6e7e.jpg"
   },
   {
+    "ID": 102,
     "İsim Soyisim": "M.Atıf Ceylan",
     "Dil": "PHP",
     "URL1": "https://github.com/atifceylan/",
@@ -714,6 +808,7 @@
     "IlkGorselURL": "https://avatars.githubusercontent.com/u/16749050?v=4"
   },
   {
+    "ID": 103,
     "İsim Soyisim": "Emin Fedar",
     "Dil": "Rust",
     "URL1": "https://www.linkedin.com/in/eminfedar/",
@@ -721,6 +816,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/C4D03AQHpNW1AfCEDsA/profile-displayphoto-shrink_800_800/0/1656341665122?e=1715212800&v=beta&t=U2ynbB4jWbkVTrFZWmrJUfMq9xEYlLSb32L9ciA_1jM"
   },
   {
+    "ID": 104,
     "İsim Soyisim": "Orhun Parmaksız",
     "Dil": "Rust",
     "URL1": "https://github.com/orhun/",
@@ -728,6 +824,7 @@
     "IlkGorselURL": "https://avatars.githubusercontent.com/u/24392180?v=4"
   },
   {
+    "ID": 105,
     "İsim Soyisim": "Şule Turp",
     "Dil": "Swift",
     "URL1": "https://twitter.com/suleturp",
@@ -735,6 +832,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1719483920113102848/Qa7UFLmT_400x400.jpg"
   },
   {
+    "ID": 106,
     "İsim Soyisim": "Burcu Geneci",
     "Dil": "Swift",
     "URL1": "https://twitter.com/burcu_geneci",
@@ -742,6 +840,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/C5603AQHfL2cPiO8lLw/profile-displayphoto-shrink_800_800/0/1562320057930?e=1715212800&v=beta&t=dbUUMj4Fbkik1NLfUAtxI1H84LV30PMIUOpQbo5mMq4"
   },
   {
+    "ID": 107,
     "İsim Soyisim": "Azer Koçulu",
     "Dil": "JavaScript",
     "URL1": "https://twitter.com/azerkoculu",
@@ -749,6 +848,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1691443660305674240/nn-bU-Jj_400x400.jpg"
   },
   {
+    "ID": 108,
     "İsim Soyisim": "Midori Koçak",
     "Dil": "PHP",
     "URL1": "https://twitter.com/midorikocak",
@@ -756,6 +856,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1687116496647180288/LfgdkWvk_400x400.jpg"
   },
   {
+    "ID": 109,
     "İsim Soyisim": "Mert Çobanov",
     "Dil": "Python",
     "URL1": "https://twitter.com/mertcobanov",
@@ -763,6 +864,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1757915921270841344/EYVjMJJS_400x400.jpg"
   },
   {
+    "ID": 110,
     "İsim Soyisim": "Mehmet Ali Peker",
     "Dil": "JavaScript",
     "URL1": "https://twitter.com/peker_eth",
@@ -770,6 +872,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1692931617021435904/qj_KS353_400x400.jpg"
   },
   {
+    "ID": 111,
     "İsim Soyisim": "Sercan Erarslan",
     "Dil": "JavaScript",
     "URL1": "https://twitter.com/sercan_eraslan",
@@ -777,6 +880,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1563267526590488577/WS0DED7g_400x400.jpg"
   },
   {
+    "ID": 112,
     "İsim Soyisim": "Erkan Erol",
     "Dil": "Java",
     "URL1": "https://twitter.com/erkan_erol_",
@@ -784,6 +888,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1700980994696986624/HfoOW-X7_400x400.jpg"
   },
   {
+    "ID": 113,
     "İsim Soyisim": "Pınar Suvaç",
     "Dil": "JavaScript",
     "URL1": "https://www.linkedin.com/in/pinarsuvacoglu//",
@@ -791,6 +896,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/C4D03AQHtk-bi_M7PiA/profile-displayphoto-shrink_800_800/0/1539774715258?e=1715212800&v=beta&t=rI9RFv-IfaWXX5l7QDepot9hzv514U1fbvjyxNqMJ2M"
   },
   {
+    "ID": 114,
     "İsim Soyisim": "Ali Orhun Akkirman",
     "Dil": "Rust",
     "URL1": "https://twitter.com/aliorhun",
@@ -798,6 +904,7 @@
     "IlkGorselURL": "https://miro.medium.com/v2/resize:fit:2400/1*6WSAO85Q78IIeLUNZufI6g.jpeg"
   },
   {
+    "ID": 115,
     "İsim Soyisim": "Mustafa Akın",
     "Dil": "Kotlin",
     "URL1": "https://github.com/mustafaakin",
@@ -805,6 +912,7 @@
     "IlkGorselURL": "https://avatars.githubusercontent.com/u/803763?v=4"
   },
   {
+    "ID": 116,
     "İsim Soyisim": "Sümer Çip",
     "Dil": "Python",
     "URL1": "https://twitter.com/sumercip",
@@ -812,6 +920,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1167345229755760640/Peab8jK5_400x400.jpg"
   },
   {
+    "ID": 117,
     "İsim Soyisim": "Ahmet Yalçınkaya",
     "Dil": "Swift",
     "URL1": "https://github.com/ahmetws",
@@ -819,6 +928,7 @@
     "IlkGorselURL": "https://avatars.githubusercontent.com/u/1841314?v=4"
   },
   {
+    "ID": 118,
     "İsim Soyisim": "Kerem Erkan",
     "Dil": "Swift",
     "URL1": "https://twitter.com/Kerem_Erkan",
@@ -826,6 +936,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1299964265806299138/tL-CLZ_D_400x400.jpg"
   },
   {
+    "ID": 119,
     "İsim Soyisim": "Hakkı Öcal",
     "Dil": "PHP",
     "URL1": "https://www.linkedin.com/in/hakkiocal/",
@@ -833,6 +944,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/C4E03AQGlpJuhJuVPjw/profile-displayphoto-shrink_800_800/0/1517693227928?e=1715212800&v=beta&t=yAFk4osadRYKQUEQWekAW6BRZQmF4bdqDjX7pKcxxhM"
   },
   {
+    "ID": 120,
     "İsim Soyisim": "Yiğit Darçın",
     "Dil": "Java",
     "URL1": "https://twitter.com/YigitDarcin",
@@ -840,6 +952,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1162310390405054465/w5SXiseG_400x400.jpg"
   },
   {
+    "ID": 121,
     "İsim Soyisim": "Efecan Erdur",
     "Dil": "PHP",
     "URL1": "https://twitter.com/efecan",
@@ -847,6 +960,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1452922217302462464/6k-R9Spg_400x400.jpg"
   },
   {
+    "ID": 122,
     "İsim Soyisim": "Engin Polat",
     "Dil": "C#",
     "URL1": "https://github.com/polatengin",
@@ -854,6 +968,7 @@
     "IlkGorselURL": "https://avatars.githubusercontent.com/u/118744?v=4"
   },
   {
+    "ID": 123,
     "İsim Soyisim": "Emre Erkan",
     "Dil": "WordPress",
     "URL1": "https://github.com/emreerkan",
@@ -861,6 +976,7 @@
     "IlkGorselURL": "https://avatars.githubusercontent.com/u/529484?v=4"
   },
   {
+    "ID": 124,
     "İsim Soyisim": "Bilal Çınarlı",
     "Dil": "JavaScript",
     "URL1": "https://twitter.com/bcinarli",
@@ -868,6 +984,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1497186729727561729/vyRFZM2f_400x400.jpg"
   },
   {
+    "ID": 125,
     "İsim Soyisim": "Gürkan Oluç",
     "Dil": "Java",
     "URL1": "https://twitter.com/grkn",
@@ -875,6 +992,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1672696214754607104/GzGRh-DT_400x400.jpg"
   },
   {
+    "ID": 126,
     "İsim Soyisim": "Ali Gündoğdu",
     "Dil": "PHP",
     "URL1": "https://twitter.com/aligundogdu",
@@ -882,6 +1000,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/C4D03AQE8BYAKaD5fLA/profile-displayphoto-shrink_800_800/0/1653057192368?e=1715212800&v=beta&t=iNyAoqX0ujEuawSumzd9SPGVADsLrPwwSbhBZKyZTLE"
   },
   {
+    "ID": 127,
     "İsim Soyisim": "Batuhan Apaydın",
     "Dil": "Go",
     "URL1": "https://twitter.com/developerguyba",
@@ -889,6 +1008,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1661639717987729414/1ofHT4Fx_400x400.jpg"
   },
   {
+    "ID": 128,
     "İsim Soyisim": "Didem Kücükkaraaslan",
     "Dil": "JavaScript",
     "URL1": "https://twitter.com/DidemKkkaraasl1",
@@ -896,6 +1016,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1585152388851273728/VbwyNOR7_400x400.jpg"
   },
   {
+    "ID": 129,
     "İsim Soyisim": "Onur Dayıbaşı",
     "Dil": "JavaScript",
     "URL1": "https://twitter.com/odayibasi",
@@ -903,6 +1024,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1214961156621832192/4qr6gTMB_400x400.jpg"
   },
   {
+    "ID": 130,
     "İsim Soyisim": "Cengiz Mataracı",
     "Dil": "JavaScript",
     "URL1": "https://github.com/cengizcmataraci",
@@ -910,6 +1032,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/C4D03AQFpMjVJ_N2wRQ/profile-displayphoto-shrink_800_800/0/1582787655350?e=1715212800&v=beta&t=dxMplsucRnZVs9rDbs_uhjvQPXmDIN7KWphLCOgVWoI"
   },
   {
+    "ID": 131,
     "İsim Soyisim": "Efe Çetin",
     "Dil": "Go",
     "URL1": "https://github.com/efectn",
@@ -917,6 +1040,7 @@
     "IlkGorselURL": "https://avatars.githubusercontent.com/u/13690848?v=4"
   },
   {
+    "ID": 132,
     "İsim Soyisim": "Canan Gümrükçüoğlu",
     "Dil": ".NET",
     "URL1": "https://twitter.com/cgumrukcuoglu",
@@ -924,6 +1048,7 @@
     "IlkGorselURL": "https://dotnetkonf.com/images/speakers/canan-gumrukcuoglu.jpg"
   },
   {
+    "ID": 133,
     "İsim Soyisim": "Ozan Akçora",
     "Dil": "PHP",
     "URL1": "https://www.linkedin.com/in/ozan-akcora",
@@ -931,6 +1056,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/C4D03AQGGfsUBGxVG8g/profile-displayphoto-shrink_800_800/0/1600164816257?e=1715212800&v=beta&t=-Zo4q_uc4vW8UmQSL5wDM4jIk_VISmg5Mf0NWqfnL5Q"
   },
   {
+    "ID": 134,
     "İsim Soyisim": "Baran Somaklı",
     "Dil": "PHP",
     "URL1": "https://twitter.com/baransomakli",
@@ -938,6 +1064,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1606737093367062530/0WGJojPL_400x400.jpg"
   },
   {
+    "ID": 135,
     "İsim Soyisim": "Uğur Erkan",
     "Dil": "PHP",
     "URL1": "https://twitter.com/ugurerkan",
@@ -945,6 +1072,7 @@
     "IlkGorselURL": "https://avatars.githubusercontent.com/u/473959?v=4"
   },
   {
+    "ID": 136,
     "İsim Soyisim": "Ahmet Kuşlular",
     "Dil": "JavaScript",
     "URL1": "https://twitter.com/ahmetkuslular",
@@ -952,6 +1080,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1201632461869998081/cvuBWVQ6_400x400.jpg"
   },
   {
+    "ID": 137,
     "İsim Soyisim": "Aybüke Arpacı",
     "Dil": "C#",
     "URL1": "https://twitter.com/yazilimcikisi",
@@ -959,6 +1088,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/C5603AQGYLReDPVjWbg/profile-displayphoto-shrink_800_800/0/1604184444724?e=2147483647&v=beta&t=brwS51OoL-OTKhu9txK8nfjA6ZNQqwHQ3kijC2dK_KA"
   },
   {
+    "ID": 138,
     "İsim Soyisim": "Ayşe Bilge Gündüz",
     "Dil": "Python",
     "URL1": "https://twitter.com/abilgegunduz",
@@ -966,6 +1096,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1641198192426471427/UV8-3T5L_400x400.jpg"
   },
   {
+    "ID": 139,
     "İsim Soyisim": "İrem Kömürcü",
     "Dil": "Python",
     "URL1": "https://twitter.com/iremkomurcu",
@@ -973,6 +1104,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1597292272722366464/TSD2_V9y_400x400.jpg"
   },
   {
+    "ID": 140,
     "İsim Soyisim": "Sezgi Şensöz",
     "Dil": "JavaScript",
     "URL1": "https://twitter.com/mefallit",
@@ -980,6 +1112,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/C4D03AQFWD5Gcs1gilQ/profile-displayphoto-shrink_800_800/0/1538667320361?e=1715212800&v=beta&t=eN7Yr9Z_imExsNkgkOlse78fo4fk-87SR0R1Cp1Py6M"
   },
   {
+    "ID": 141,
     "İsim Soyisim": "Canseray Tufan",
     "Dil": "Java",
     "URL1": "https://twitter.com/cans3ray",
@@ -987,13 +1120,15 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1181703801847402496/4M5zA-M0_400x400.jpg"
   },
   {
+    "ID": 142,
     "İsim Soyisim": "Elif Boncuk",
-    "Dil": "Swift",
+    "Dil": "Java",
     "URL1": "https://twitter.com/elifbon_",
     "URL2": "",
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1728865895714332672/dYmXGIVR_400x400.jpg"
   },
   {
+    "ID": 143,
     "İsim Soyisim": "Burcu Yalçınkaya",
     "Dil": "Java",
     "URL1": "https://twitter.com/burcuco",
@@ -1001,13 +1136,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1644760209930215425/xx4QOmMR_400x400.jpg"
   },
   {
-    "İsim Soyisim": "Aysel Aydın",
-    "Dil": "Flutter",
-    "URL1": "https://twitter.com/AysellAydinn",
-    "URL2": "https://github.com/AyselAydin",
-    "IlkGorselURL": "https://avatars.githubusercontent.com/u/10837799?v=4"
-  },
-  {
+    "ID": 144,
     "İsim Soyisim": "Kadriye Macit",
     "Dil": "Flutter",
     "URL1": "https://twitter.com/kadriyemct",
@@ -1015,6 +1144,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1739380101798649856/OBrNUtp__400x400.jpg"
   },
   {
+    "ID": 145,
     "İsim Soyisim": "Tuğba Cevizci",
     "Dil": "Java",
     "URL1": "https://twitter.com/tugbacevizcii",
@@ -1022,13 +1152,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/C5603AQGR5AOUr0BLfw/profile-displayphoto-shrink_800_800/0/1578468143660?e=1715212800&v=beta&t=MwdQdSkpHjAuGBge7Wn2KUHxiwjOiUjIsfKncYOgaFQ"
   },
   {
-    "İsim Soyisim": "Irmak Kavasoğlu",
-    "Dil": "Kotlin",
-    "URL1": "https://twitter.com/theTytoAlba",
-    "URL2": "https://www.linkedin.com/in/irmakkavasoglu/",
-    "IlkGorselURL": "https://media.licdn.com/dms/image/C4D03AQEYgU3zlZCi-Q/profile-displayphoto-shrink_800_800/0/1557239128743?e=1715212800&v=beta&t=FnqWhUPRFE7rKGzQwaeI8teA3Gm5A6R5N0D6Drmi1Iw"
-  },
-  {
+    "ID": 146,
     "İsim Soyisim": "Gizem Malçok",
     "Dil": "Flutter",
     "URL1": "https://twitter.com/gizemnoktapk",
@@ -1036,6 +1160,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1722998841077538816/f6KaBwkv_400x400.jpg"
   },
   {
+    "ID": 147,
     "İsim Soyisim": "Fatma Tanrısevdi",
     "Dil": "JavaScript",
     "URL1": "https://twitter.com/tnrsvd",
@@ -1043,6 +1168,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1472657322933690368/VeEBPoeJ_400x400.jpg"
   },
   {
+    "ID": 148,
     "İsim Soyisim": "Tuba Çebi",
     "Dil": "C#",
     "URL1": "https://twitter.com/tubacbx",
@@ -1050,6 +1176,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/D4D03AQHu5tDzXjzSPw/profile-displayphoto-shrink_800_800/0/1687116615866?e=1715212800&v=beta&t=UgrKTjOetxTuAgjMT8DfcqkDFHJfef-U_791Pv5Xyo0"
   },
   {
+    "ID": 149,
     "İsim Soyisim": "Dilruba Yücesoy Özçelik",
     "Dil": "Java",
     "URL1": "https://twitter.com/yucesoydilruba",
@@ -1057,6 +1184,7 @@
     "IlkGorselURL": "https://avatars.githubusercontent.com/u/23015440?v=4"
   },
   {
+    "ID": 150,
     "İsim Soyisim": "Hana Kamer",
     "Dil": "JavaScript",
     "URL1": "https://twitter.com/terskaplumbaa",
@@ -1064,13 +1192,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1463431416222466048/YURUJ_gG_400x400.jpg"
   },
   {
-    "İsim Soyisim": "Ebru Güleç",
-    "Dil": "Go",
-    "URL1": "https://twitter.com/glcebru",
-    "URL2": "",
-    "IlkGorselURL": "https://pbs.twimg.com/profile_images/1728071482994020352/9dq-OmMn_400x400.jpg"
-  },
-  {
+    "ID": 151,
     "İsim Soyisim": "Elif Apaydın",
     "Dil": "DevOps",
     "URL1": "https://twitter.com/elifapaydin_",
@@ -1078,6 +1200,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/D4D03AQEaImd518MUVg/profile-displayphoto-shrink_800_800/0/1668697029555?e=1715212800&v=beta&t=SloswWIYXXy9qoGqwas7C0_WyS8iHFHAMsn7WmXqaTc"
   },
   {
+    "ID": 152,
     "İsim Soyisim": "Merve Agca",
     "Dil": "JavaScript",
     "URL1": "https://twitter.com/merveagcax",
@@ -1085,6 +1208,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1696405862938546177/A5OcKof5_400x400.jpg"
   },
   {
+    "ID": 153,
     "İsim Soyisim": "Hatice Ergün",
     "Dil": "PHP",
     "URL1": "https://twitter.com/hadeyici",
@@ -1092,6 +1216,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1605628562932891659/VjxHy7AY_400x400.jpg"
   },
   {
+    "ID": 154,
     "İsim Soyisim": "Şirin Saygılı",
     "Dil": "Python",
     "URL1": "https://twitter.com/sirinnes",
@@ -1099,6 +1224,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/971752517448163328/Dr4OesfX_400x400.jpg"
   },
   {
+    "ID": 155,
     "İsim Soyisim": "Aydan Taşdemir Yılmaz",
     "Dil": "DevOps",
     "URL1": "https://twitter.com/aydantasdemir",
@@ -1106,6 +1232,7 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/C4D03AQGYfTcFht3xtw/profile-displayphoto-shrink_800_800/0/1566966721280?e=1715212800&v=beta&t=0fgXA9TyAWunmD10vqcjLb9P_3QVGFRnHOgcEG-kENE"
   },
   {
+    "ID": 156,
     "İsim Soyisim": "Zikriye Ürkmez",
     "Dil": ".NET",
     "URL1": "https://twitter.com/ZikriyeUrkmez",
@@ -1113,6 +1240,15 @@
     "IlkGorselURL": "https://media.licdn.com/dms/image/D4D03AQF9PXSGeq0BxQ/profile-displayphoto-shrink_800_800/0/1679983117824?e=1715212800&v=beta&t=hNb0L-p1QWPpCewD3InPkK0vDuxrFV1drJb4pWs3Gcc"
   },
   {
+    "ID": 157,
+    "İsim Soyisim": "Ayşe Aktağ",
+    "Dil": "Siber Güvenlik",
+    "URL1": "https://twitter.com/aayseaktag",
+    "URL2": "",
+    "IlkGorselURL": "https://avatars.githubusercontent.com/u/85439997?v=4"
+  },
+  {
+    "ID": 158,
     "İsim Soyisim": "Ceren Solpan Ture",
     "Dil": "JavaScript",
     "URL1": "https://twitter.com/cerensolpanture",
@@ -1120,13 +1256,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1726170844018180096/Fkz-L34X_400x400.jpg"
   },
   {
-    "İsim Soyisim": "Yağmur Yıldız",
-    "Dil": "Go",
-    "URL1": "https://twitter.com/yagmurxyildiz",
-    "URL2": "",
-    "IlkGorselURL": "https://pbs.twimg.com/profile_images/1595820621677694978/VSIqS7eZ_400x400.jpg"
-  },
-  {
+    "ID": 159,
     "İsim Soyisim": "Ayça Aydoğan",
     "Dil": "Go",
     "URL1": "https://twitter.com/aycaaydogn",
@@ -1134,6 +1264,31 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1572187266818113536/L2fuYccp_400x400.jpg"
   },
   {
+    "ID": 160,
+    "İsim Soyisim": "Sena Yakut",
+    "Dil": "Siber Güvenlik",
+    "URL1": "https://twitter.com/sena_yakutt",
+    "URL2": "",
+    "IlkGorselURL": "https://media.licdn.com/dms/image/D4D03AQGd5Y8wHogesw/profile-displayphoto-shrink_800_800/0/1679218764767?e=1715212800&v=beta&t=DlYq9Hm9C3Y8nIDlqlFt0LXOON8QJLHJAfABjAuwP6w"
+  },
+  {
+    "ID": 161,
+    "İsim Soyisim": "Ece İSLAMOĞLU",
+    "Dil": "Siber Güvenlik",
+    "URL1": "https://www.linkedin.com/in/ece-i/",
+    "URL2": "",
+    "IlkGorselURL": "https://media.licdn.com/dms/image/D4D03AQH143mw7rRR5A/profile-displayphoto-shrink_800_800/0/1703777577943?e=1715212800&v=beta&t=dx2yr79nT6hKrMXORaAoNnn7XaTVBvETfy_NfxKkWtQ"
+  },
+  {
+    "ID": 162,
+    "İsim Soyisim": "Burcu Yarar",
+    "Dil": "Siber Güvenlik",
+    "URL1": "https://twitter.com/brcyrr",
+    "URL2": "",
+    "IlkGorselURL": "https://pbs.twimg.com/profile_images/1542848073403170817/GfrjeyoA_400x400.jpg"
+  },
+  {
+    "ID": 163,
     "İsim Soyisim": "Zekiye AYDEMİR",
     "Dil": "PostgreSQL",
     "URL1": "https://twitter.com/pgElephant",
