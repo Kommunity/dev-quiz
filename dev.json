@@ -1286,5 +1286,13 @@
     "URL1": "https://twitter.com/pgElephant",
     "URL2": "",
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1208143523029147651/KRBm0RWD_400x400.jpg"
-  }
+  },
+  {
+    "ID": 164,
+    "İsim Soyisim": "Kürşat Şimşek",
+    "Dil": "Java",
+    "URL1": "https://github.com/kursatsmsek",
+    "URL2": "https://www.linkedin.com/in/kursatsmsek",
+    "IlkGorselURL": "https://avatars.githubusercontent.com/u/80540635?v=4"
+  },
 ]
