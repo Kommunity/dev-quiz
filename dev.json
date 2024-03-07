@@ -824,14 +824,6 @@
     "IlkGorselURL": "https://avatars.githubusercontent.com/u/24392180?v=4"
   },
   {
-    "ID": 105,
-    "İsim Soyisim": "Şule Turp",
-    "Dil": "Swift",
-    "URL1": "https://twitter.com/suleturp",
-    "URL2": "",
-    "IlkGorselURL": "https://pbs.twimg.com/profile_images/1719483920113102848/Qa7UFLmT_400x400.jpg"
-  },
-  {
     "ID": 106,
     "İsim Soyisim": "Burcu Geneci",
     "Dil": "Swift",
@@ -1288,7 +1280,7 @@
     "IlkGorselURL": "https://pbs.twimg.com/profile_images/1542848073403170817/GfrjeyoA_400x400.jpg"
   },
   {
-    "ID": 163,
+    "ID": 105,
     "İsim Soyisim": "Zekiye AYDEMİR",
     "Dil": "PostgreSQL",
     "URL1": "https://twitter.com/pgElephant",
